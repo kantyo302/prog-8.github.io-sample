@@ -4,7 +4,7 @@
 }
 
 .container {
-  width: 1170px;
+  width: 100%;
   padding:0 15px;
   margin: 0 auto;
 }
@@ -157,4 +157,3 @@ footer p {
   font-size: 12px;
   padding-top:0;
 }
-
